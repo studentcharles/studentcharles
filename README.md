@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am charles emmanuel, currently studying in nigeria ✨. I one day hope to become a full stack developer
 <!--
 **studentcharles/studentcharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
